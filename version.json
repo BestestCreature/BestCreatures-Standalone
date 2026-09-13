@@ -1,0 +1,19 @@
+{
+  "version": "7.64.6",
+  "build": "2026-09-13-main3-return",
+  "environment": "production",
+  "architecture": "shared-bookmarklet-runtime",
+  "runtimeSource": "bajsas-lite.js",
+  "obfuscated": true,
+  "backend": "https://hditjzivrzcmiezuereq.supabase.co",
+  "assets": {
+    "app": "app.7.64.6.189339448e18.js",
+    "runtime": "runtime.7.64.6.09ce1186fef8.js",
+    "styles": "styles.css",
+    "oauth": "oauth/index.html",
+    "oauthScript": "oauth/oauth.js",
+    "signin": "signin/index.html",
+    "signinScript": "signin/signin.js"
+  },
+  "builtAt": "2026-09-13T09:23:17.805Z"
+}
