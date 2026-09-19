@@ -1,0 +1,19 @@
+{
+  "version": "7.67.0",
+  "build": "2026-09-19-anime-schedule-progress",
+  "environment": "production",
+  "architecture": "shared-bookmarklet-runtime",
+  "runtimeSource": "bajsas-lite.js",
+  "obfuscated": true,
+  "backend": "https://hditjzivrzcmiezuereq.supabase.co",
+  "assets": {
+    "app": "app.7.67.0.9f18faa52f0d.js",
+    "runtime": "runtime.7.67.0.d58895156e2a.js",
+    "styles": "styles.css",
+    "oauth": "oauth/index.html",
+    "oauthScript": "oauth/oauth.js",
+    "signin": "signin/index.html",
+    "signinScript": "signin/signin.js"
+  },
+  "builtAt": "2026-09-19T12:48:11.338Z"
+}
