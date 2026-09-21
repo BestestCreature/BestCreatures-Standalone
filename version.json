@@ -1,0 +1,19 @@
+{
+  "version": "7.68.4",
+  "build": "2026-09-20-longer-movie-repeat-window",
+  "environment": "production",
+  "architecture": "shared-bookmarklet-runtime",
+  "runtimeSource": "bajsas-lite.js",
+  "obfuscated": true,
+  "backend": "https://hditjzivrzcmiezuereq.supabase.co",
+  "assets": {
+    "app": "app.7.68.4.6e55d0f4213b.js",
+    "runtime": "runtime.7.68.4.461ed270dc36.js",
+    "styles": "styles.css",
+    "oauth": "oauth/index.html",
+    "oauthScript": "oauth/oauth.js",
+    "signin": "signin/index.html",
+    "signinScript": "signin/signin.js"
+  },
+  "builtAt": "2026-09-21T17:22:24.941Z"
+}
