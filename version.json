@@ -1,0 +1,19 @@
+{
+  "version": "7.70.7",
+  "build": "2026-10-29-steady-playback-speed",
+  "environment": "production",
+  "architecture": "shared-bookmarklet-runtime",
+  "runtimeSource": "bajsas-lite.js",
+  "obfuscated": true,
+  "backend": "https://hditjzivrzcmiezuereq.supabase.co",
+  "assets": {
+    "app": "app.7.70.7.08be2d29194e.js",
+    "runtime": "runtime.7.70.7.97f4fbee0f40.js",
+    "styles": "styles.css",
+    "oauth": "oauth/index.html",
+    "oauthScript": "oauth/oauth.js",
+    "signin": "signin/index.html",
+    "signinScript": "signin/signin.js"
+  },
+  "builtAt": "2026-11-13T16:57:30.783Z"
+}
